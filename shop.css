@@ -29,7 +29,7 @@ nav a{
     color: #FFF;
 }
 
-#home:hover,#discord:hover,#shop:hover{
+#home:hover,#discord:hover,#shop:hover,#stock:hover{
     border-top: 5px solid cyan;
     background-color: darkcyan;
 }
@@ -98,7 +98,7 @@ nav li:hover a{
 .child a:hover{
     opacity: 1;
     background: royalblue;
-    border-color: darkblue;
+    border-color: skyblue;
 }
 
 .child input:hover{
